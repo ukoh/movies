@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bible"
+    android:layout_height="match_parent"
+    tools:context="com.example.babybest.quizapp.AnswersActivity">
+
+    <TextView
+        android:paddingBottom="16dp"
+        android:paddingTop="10dp"
+        style="@style/textViews"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/answers_to_quiz" />
+
+    <TextView
+        style="@style/textViews"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/q1" />
+
+    <TextView
+        style="@style/textViews"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/q2" />
+
+    <TextView
+        style="@style/textViews"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/q3" />
+
+    <TextView
+        style="@style/textViews"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/q4" />
+
+    <TextView
+        style="@style/textViews"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/q5" />
+</LinearLayout>

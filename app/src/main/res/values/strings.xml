@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="intro"> BIBLE QUIZ!!</string>
+    <!-- Question one-->
+    <string name="Quiz1_textView"> How old was David when he was anointed King of Isreal? </string>
+    <string name="quiz1_radioButton1">30 years</string>
+    <string name="quiz1_radioButton2">40 years</string>
+    <string name="quiz1_radioButton3">50 years</string>
+
+    <!--Question two-->
+    <string name="quiz2_editText"> Who said, "...as for me and my house, we will serve the Lord"?</string>
+
+    <!--Question three-->
+    <string name="quiz3_textView"> Which disciples witnessed Jesus Transfiguration?</string>
+    <string name="quiz3_checkBox1">Peter</string>
+    <string name="quiz3_checkBox2">James</string>
+    <string name="quiz3_checkBox3">John</string>
+
+    <!--QuestionFour-->
+    <string name="Quiz4_textView"> Who told Naaman to wash in the river Jordan seven times? </string>
+    <string name="quiz4_radioButton1">Peter</string>
+    <string name="quiz4_radioButton2">Elijah</string>
+    <string name="quiz4_radioButton3">Elisha</string>
+
+    <!--Question five-->
+    <string name="quiz5_editText"> What is the name of the place where jacob slept and dreamed of Jacob\'s ladder?</string>
+    <!--Submitbutton-->
+    <string name="submit_answer_button">SUBMIT</string>
+
+    <!--Answers to questions-->
+    <string name="seeAnswer">View Answers</string>
+    <string name="answers_to_quiz">ANSWERS TO QUIZ</string>
+    <string name="reset">RESET</string>
+
+    <string name="q1">1.  30years   (2Samuel 5:4) </string>
+    <string name="q2">"2.  Joshua (Joshua 24:15)</string>
+    <string name="q3">3.  Peter, James, John  (matt 17:1-2)</string>
+    <string name="q4">4.   Elisha 2Kings 5:10</string>
+    <string name="q5">5.   Bethel </string>
+
+    <string name="quiz1">Question One</string>
+    <string name="quiz2">Question Two</string>
+    <string name="quiz3">Question Three</string>
+    <string name="quiz4">Question Four</string>
+    <string name="quiz5">Question Five</string>
+
+
+</resources>
